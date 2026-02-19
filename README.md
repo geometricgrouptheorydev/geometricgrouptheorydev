@@ -1,7 +1,7 @@
 # GGTdev
 
 **Geometric Group Theorist | Software Engineer**
-Pronouns: he/him
+(he/him)
 
 I am a specialist in geometric group theory applying mathematical rigor to software engineering. This GitHub profile serves as a curated showcase of stable technical implementations, primarily focusing on projects with a mathematical flavor.
 
