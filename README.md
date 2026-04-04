@@ -17,13 +17,14 @@ An evolving computational group theory library designed to explore finitely pres
 - **Concurrency:** Leverages Go's concurrency model for intensive algebraic computations and algorithms requiring parallel processes.
 - **Future Scope:** Support for finite groups via permutation representations and a custom CLI parser for natural mathematical notation.
 
-### Static Site Generator (Python)
+### Static Site Generator (Python and Go)
 A functional static site generator built to explore backend fundamentals, file I/O, and string processing.
 
-- **Markdown Integration:** Fast conversion of Markdown to structured HTML.
+- **Markdown Integration:** Fast conversion of Markdown to structured HTML using regular expressions.
 - **Extensible Design:** Architecture supports future LaTeX integration for mathematical typesetting.
+- **Future Scope:** LaTeX support via SVG conversion and a Go refactor to support nested delimiters using state machines.
 
-### Math Fetcher CLI (Go - Active Development)
+### Math Fetcher CLI (Go - Planned)
 A command-line tool for retrieving and organizing mathematical definitions and theorems.
 
 - **Custom CLI:** Intuitive command structure (`get`, `collect`, `explore`, etc.).
