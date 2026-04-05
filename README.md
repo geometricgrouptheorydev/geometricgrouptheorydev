@@ -1,13 +1,15 @@
 # GGTdev
 
 **Geometric Group Theorist | Research Engineer**
-(he/him)
 
-I am a specialist in geometric group theory applying mathematical rigor to software engineering. This GitHub profile serves as a curated showcase of stable technical implementations, primarily focusing on projects with a mathematical flavor.
+I am a specialist in geometric group theory applying mathematical rigor to software engineering. This GitHub profile serves both as a curated showcase of stable technical implementations, primarily focusing on projects with a mathematical flavor and also to showcase my mathematical technical writing expertise.
 
 *Note: This account acts as a portfolio for polished, high-quality work; it does not reflect the entirety of my daily research or development activity.*
 
 ## Curated Projects
+
+### My Monograph Titled "Automatic Groups and Biautomatic Structures of Geometrizable 3 and 4-Manifolds" (LaTeX)
+My prize-winning research monograph on the intersection of Geometric Group Theory, Formal Language Theory, and Differential Topology. In particular, this research investigates the existence of biautomatic structures within the fundamental groups of geometrizable 3-manifolds.
 
 ### Group Theory Library (Go) 
 An evolving computational group theory library designed to explore finitely presented groups. This project bridges the gap between abstract research and practical implementations. Group theory often pushes even theoretical algorithms to their limits; therefore, translating those ideas into efficient Go code is both mathematically rigorous and architecturally challenging.
