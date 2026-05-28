@@ -1,8 +1,8 @@
 # GGTdev
 
-**Geometric Group Theorist | Research Engineer**
+**Geometric Group Theorist | Technical Author | Research Engineer**
 
-I am a specialist in geometric group theory applying mathematical rigor to software engineering. This GitHub profile serves both as a curated showcase of stable technical implementations, primarily focusing on projects with a mathematical flavor and also to showcase my mathematical technical writing expertise.
+I am a specialist in geometric group theory applying mathematical rigor to software and documentation. This GitHub profile serves both as a curated showcase of stable technical implementations, primarily focusing on projects with a mathematical flavor and also to showcase my mathematical technical writing expertise.
 
 *Note: This account acts as a portfolio for polished, high-quality work; it does not reflect the entirety of my daily research or development activity.*
 
@@ -26,12 +26,8 @@ A functional static site generator built to explore backend fundamentals, file I
 - **Extensible Design:** Architecture supports future LaTeX integration for mathematical typesetting.
 - **Future Scope:** LaTeX support via SVG conversion and a Go refactor to support nested delimiters using state machines.
 
-### Math Fetcher CLI (Go - Planned)
-A command-line tool for retrieving and organizing mathematical definitions and theorems.
-
-- **Custom CLI:** Intuitive command structure (`get`, `collect`, `explore`, etc.).
-- **SQL-backed storage system** for organized knowledge management.
-- **Integrated caching layer** for rapid retrieval of frequently accessed items.
+### A Secret Future Project
+Stay tuned!
 
 ## Contact
 For professional inquiries or employment opportunities regarding my work, please reach out at [geometricgrouptheorydev@gmail.com](mailto:geometricgrouptheorydev@gmail.com).
